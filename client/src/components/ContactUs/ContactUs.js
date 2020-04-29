@@ -38,7 +38,7 @@ const ContactUs = () => {
               paddingRight: "25%",
             }}
           >
-            <Paragraph>About Emily</Paragraph>
+            <Paragraph></Paragraph>
           </div>
             <div style={{width: '100%', display: 'flex', justifyContent: 'center'}}>
 
@@ -77,7 +77,7 @@ const ContactUs = () => {
             }}
           >
             <Paragraph>
-              About Seth
+        
              {/* Seth Wheeler is an Army Veteran with a passion for technology that makes the world a better place. He is openly seeking new opportunities in full-stack development */}
             </Paragraph>
           </div>
@@ -117,7 +117,7 @@ const ContactUs = () => {
               paddingRight: "25%",
             }}
           >
-            <Paragraph>About Thomas</Paragraph>
+            <Paragraph></Paragraph>
           </div>
            <div style={{width: '100%', display: 'flex', justifyContent: 'center'}}>
 
@@ -155,7 +155,7 @@ const ContactUs = () => {
               paddingRight: "25%",
             }}
           >
-            <Paragraph> About Qi  </Paragraph>
+            <Paragraph></Paragraph>
           </div>
            <div style={{width: '100%', display: 'flex', justifyContent: 'center'}}>
 

@@ -11,7 +11,8 @@
 .dropdown {
   float: left;
   overflow: hidden;
-  font-size: 1em;
+  font-size: 1.2rem;
+  margin-top: -.25rem;
 }
 
 .dropdown .dropbtn {
@@ -66,20 +67,3 @@
 .activeStyle:hover {
   color: white
 }
-
-
-/* 
-<Link style={styles.link} to='/'>
-<img style={styles.logo} src={"../DGBGrey.png"} />
-</Link> */
-
-/* logo: {
-  width: '100%',
-  cursor: 'pointer',
-  border: '1px solid white',
-},
-link: {
-  width: '10%',
-  cursor: 'pointer',
-  border: '1px solid red',
-} */

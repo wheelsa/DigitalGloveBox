@@ -8,7 +8,7 @@ export const RowCenter = styled.div`
 `;
 
 export const Title = styled.h1`
-  font-size: 1.5em;
+  font-size: 1.2rem;
   color: black;t
 `;
 
